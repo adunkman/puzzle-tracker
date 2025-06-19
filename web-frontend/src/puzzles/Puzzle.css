@@ -1,0 +1,8 @@
+.puzzle-container {
+  display: flex;
+}
+
+.puzzle-image {
+  max-width: 200px;
+  margin-right: 20px;
+}
